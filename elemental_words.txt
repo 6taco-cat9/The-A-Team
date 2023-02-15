@@ -1,0 +1,293 @@
+Ac Ce Pt
+Ac Ce S S
+Ac Ce S S I Bi Li Ti Es
+Ac C Re Te
+Ac Cr Ual
+Ac Cu Ra C Y
+Ac C U Se
+Ac Es
+Ac He
+Ac I Ds
+Ac Ne
+Ac O Rn
+Ag I Ta Ti O N
+Ag N O S Ti C
+Ag O
+Al Co Ho Li C
+Al I Mo N Y
+Al Pa Ca S
+Am Er I Ca
+Am Er I Ca N
+Am I S H
+Am P U Ta Te
+Am P U Ta Ti O N
+Ar Ge N Ti Na
+As P Ir In
+At He I Sm
+At La N Ta
+At Te N Ti O N
+Au C Ti O N
+Au Ti S Ti C
+Ba Co N
+Ba C O N
+Ba Na Na
+B Al Li S Ti C
+Ba Nd
+Ba Ne
+Ba N K
+Ba P Ti Sm
+B Ar F
+Ba Se
+Ba Y
+Be Ar S
+Be Ca U Se
+Be Er S
+B Er S Er K
+B O Dy
+B O Ne
+B O N F I Re
+B O O
+B O Y
+B Ra I N
+B Ra I N S
+Br O
+B U N C H
+B U Rn
+B U S Y
+B U Ta Ne
+Br U N C H
+Ca C Ti
+Ca Fe
+C Am P
+Ca N
+Ca N Dy
+Ca Nd Y
+Ca N E
+Ca Ni Ne
+Ca N N I B Al
+Ca P
+C Ar
+C He Er S
+C H I Na
+C Ho Co La Te
+Cl O C K
+C O F Fe Es
+C O Ne
+Co O K
+Co P Er Ni Cu S
+C O U N Ts
+C O U P Es
+Co W
+Co V Er
+C O Y
+Co Y O Te
+Cu Te
+C Y B O Rg
+Dy N Am I C
+Dy N Am I Te
+Dy Na Mo
+Dy Na S Ti Es
+Dy S F U N C Ti O N Al
+Er Os I O N
+Er O Ti C
+Er U Pt
+Es Se N Ce
+F Ac Es
+F Al Se
+F At
+Fe Ar
+Fe Li Ne
+Fe N Ce
+Fe Ti S H
+F I B S
+F In Al
+F I Re
+Fl Og
+Fl O W
+F Og
+F O Re V Er
+F La S H
+Fr Ac Ti On
+Fr Og
+Fr O Li C
+Fr Y
+F U N
+F U N C Ti O N
+F U N C Ti O N Al
+F U Si O N
+Ga La
+Ga S P
+Ge Ar
+Ge Ne
+Ge Ne Ra Ti O N
+Ge Ne Si S
+Ge Ni U S
+Ge N I U S
+H Ac K
+H Ac K Er
+H Ac K Er S
+H Al Os
+H Ar P
+H As
+H At S
+He At
+He I N O U S
+He Li Co Pt Er
+He Re Tic
+Ho N K
+H O O K
+H O O K Er S
+Ho Se
+H U Nd Re Ds
+H Y Mn
+H Y Mn Al
+H Y P Er B O Li C
+H Y P Er Pa Th O Ge N Es I S
+H Y P O Th Al Am U S
+I C K Y
+I Co N
+In Cl In Es
+In S P I Re
+I N S P I Re
+I Ra N
+I Re La Nd
+Ir O N
+K I C K
+K I Nd
+K N I Fe
+K Ni Ts
+K No W
+Kr Y Pt O N
+La B
+La Dy
+La Os
+Li Fe S Pa N
+Li P S
+Lu Br I Ca Ti O N
+Lu C I F Er
+Lu C K Y
+Mo C K Ery
+Mo Na Co
+Mo N Ta Na
+Mo Re
+Mo U Se
+Mo Ti On
+Mo Ti O N
+N Ar C
+N At O
+Ne O N
+Ne P Al
+Ne Pt U Ne
+Ni Ts
+N O N Al Co Ho Li C
+No Ti F I Ca Ti O N
+N U N
+O H I O
+Os Mo Si S
+Os Te N Ta Ti O U S
+Pa K I S Ta N
+P Al Es Ti Ne
+Pa P Y Ru S
+P At C H Er
+P At C H I Er
+P H O Ne
+P H Y Si Cs
+P I Ra Te
+P La Y
+P La Y Er
+P O Ac H Er
+P O I S O N
+Po Li Ce
+Po Li S H
+Po S H
+P O U N Ds
+P Re P Ar Er
+P Re Te Nd Er
+P U F F Er
+P S Y C H I C
+Ra C Co O N
+Ra Ge
+Re Cl U Se
+Re Se Ar H
+Re Si N
+Re S C U Es
+Re S Po N Si Bi Li Ti Es
+Re Ti Na
+Re U Ni Te
+Re V Er Se
+Rh U Ba Rb
+Ru B
+Ru B Y
+Ru In
+Ru N
+Ru Ne
+Ru S H
+S Ac K
+S Ag
+S Al V At I O N
+S Ar Ca Sm
+S As S Y
+S At In
+Sc Al Li O N
+S Ca Nd Al
+Sc Ar Es
+Sc O T C H
+Se P Tic
+Si C K Ne S S
+Si N Ga Po Re
+Si P H O N
+S K U N K
+S N I P Er
+S No W Y
+S N O W Y
+S O C C Er
+S O C I O Pa Th
+S O Mn Am B U Li Sm
+S P Am
+S Pa N
+S P I N
+S P In
+S U Re
+Ta V Er N
+Ta X Es
+Te Ac H
+Te Am
+Te Ta N U S
+Te Th Er
+Th At
+Th In
+Th In K
+Ti C K
+Ti C K Li S H
+U Nd Er
+U Ni C O Rn S
+U Ni O N
+U N Re Al
+U Ta H
+V Ac C I Ne
+V Am P I Re
+V At I Ca N
+V Er Se
+V I O Li N
+V I Ru S
+V I Sc O Si Ti Es
+V O Te
+W Ar
+W At C H
+W H At
+W He N
+W Ho
+W I Fe
+W I Se
+W I Tc H
+W I Th
+W O N
+W O Nd Er
+W O N K Y
+Xe No N
+Xe No P Ho Be
+Y Am S
+Y Ar Ds
+Y Ar N
+Y O U
+Y U C Ca
