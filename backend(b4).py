@@ -12,7 +12,7 @@ class word: # record to replace 2 dimensional list
 		self.mode = mode
 
 lst = [] # 'database'
-f = open("name_lst.txt")
+f = open("name_lst.txt") # supposed to be elemental_words file
 for i in range(total_words("name_lst.txt")):
 	line = f.readline()[:-1] # -1 to exclude \n
 	format = [len(i) for i in line.split()] # e.g Ba Co N -> [2, 2, 1]
