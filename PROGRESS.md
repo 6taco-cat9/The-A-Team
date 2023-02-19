@@ -44,6 +44,9 @@ Rewrite the elemental words file which originally has 293 items into 41067 items
 
 _what I learned: english has so many word, and github syntaxes_
 
+### Day 6 & 7
 
+- scrap the website idea instead put python gui as alternative
+- dont put the max steps() function as it puts extra complexity for user 
 
 
