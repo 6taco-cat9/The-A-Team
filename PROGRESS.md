@@ -32,4 +32,18 @@ e.g. steps(Po Li S H, Fe Ti S H, list, 0) returns 2 when it should’ve returned
 <img width="1440" alt="Screen Shot 2023-02-17 at 01 57 56" src="https://user-images.githubusercontent.com/125279934/219541376-a6ba3d2b-3bbf-4562-bc2d-c8d0e14a3f82.png">
 *what I learned: How ‘any’, ‘all’ methods work. One line if statement is possible in python:))*
 
+### Day 5 -
+
+Came up with an algorithm to go through the words in eng dict and check if they can be combined with just element symbols 
+
+-> convert each into appropriate format
+
+Rewrite the elemental words file which originally has 293 items into 41067 items
+
+<img width="1440" alt="Screen Shot 2023-02-19 at 00 16 16" src="https://user-images.githubusercontent.com/125279934/219905334-bcd33733-1c39-4330-bdb8-5b4374e1f76a.png">
+
+_what I learned: english has so many word, and github syntaxes_
+
+
+
 
